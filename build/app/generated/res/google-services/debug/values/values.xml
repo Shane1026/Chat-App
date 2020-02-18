@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">635718310494-euaeuaqquchktjmd29mn39s5ed6hla6e.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flash-chat-bb17b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">635718310494</string>
+    <string name="google_api_key" translatable="false">AIzaSyCgVEE9YCwRXZ--LVCdXoycHZI89vHrBAw</string>
+    <string name="google_app_id" translatable="false">1:635718310494:android:5a0dc04e253d89bb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCgVEE9YCwRXZ--LVCdXoycHZI89vHrBAw</string>
+    <string name="google_storage_bucket" translatable="false">flash-chat-bb17b.appspot.com</string>
+    <string name="project_id" translatable="false">flash-chat-bb17b</string>
+</resources>
